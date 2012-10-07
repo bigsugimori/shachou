@@ -1,0 +1,6 @@
+
+public class Bucho extends Shain {
+    public void kiritsu() {
+	System.out.println("部長がだるそうに立ちました");
+    }
+}
