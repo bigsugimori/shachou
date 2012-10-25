@@ -1,6 +1,0 @@
-
-public class Bucho extends Shain {
-    public void kiritsu() {
-	System.out.println("主任がすばやく立ちました");
-    }
-}
